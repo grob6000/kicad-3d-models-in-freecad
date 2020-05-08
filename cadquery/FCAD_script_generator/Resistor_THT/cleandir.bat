@@ -1,0 +1,1 @@
+delete "D:\kicad-3d-models-in-freecad\cadquery\FCAD_script_generator\_3Dmodels\Resistors_THT.3dshapes\*.*"
